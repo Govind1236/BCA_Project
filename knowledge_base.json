@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "answer": "Paris"
+        },
+        {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "What is 2 + 2?",
+            "answer": "4"
+        },
+        {
+            "question": "hello",
+            "answer": "hey there!"
+        },
+        {
+            "question": "what is your name",
+            "answer": "its me chatbot "
+        },
+        {
+            "question": "who created you?",
+            "answer": "Created by Codesparks Technology"
+        }
+    ]
+}
